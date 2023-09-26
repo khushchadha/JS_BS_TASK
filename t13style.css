@@ -1,0 +1,37 @@
+*{
+    margin:0;
+}
+#nav1 {
+    background-color: rgb(18, 199, 223);
+}
+#nav2{
+    background-color: rgb(156, 156, 156);
+    
+}
+#text{
+    color: white;
+    padding-right:75px;
+}
+#textarea{
+    background-color: rgb(255, 255, 255);
+    width:78%;
+    display: flex;
+    justify-content: space-around;
+}
+#righttext{
+    color:white;
+    background-color: rgb(101, 101, 101);
+    width:22%;
+    padding-bottom: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+#area{
+    margin: 0;
+    padding-right:0;
+    padding-left: 0;  
+    width:100%;
+    display: flex;
+    justify-content: space-around;  
+
+}
